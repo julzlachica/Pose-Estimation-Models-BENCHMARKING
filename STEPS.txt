@@ -1,0 +1,10 @@
+Save all in one folder first every file and folders, then run powershell in the same directory.
+
+RUN FIRST:
+venv\Scripts\activate
+
+THEN: (testing 20 images only)
+python benchmark.py --images valid --ann valid\_annotations.coco.json --allow-multi --n 20 --reps 1
+
+FULL BENCHMARK:
+python benchmark.py --images valid --ann valid\_annotations.coco.json --allow-multi
