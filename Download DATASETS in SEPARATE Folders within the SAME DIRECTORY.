@@ -1,3 +1,17 @@
+Sample:
+
+Directory must be C:\Users\URNAME\Documents\PROJECT
+Then download all .py files and datasets in here, so must be in:
+============================================================================================
+
+    Name:                Date Modified:          Type:             Size:
+    [images]                                     File Folder
+    [train]                                      File Folder
+    benchmark.py         
+    check_json.py        
+
+============================================================================================
+
 dataset link (images; for inference time, peak RAM, storage, and framerate/throughput):
 https://drive.google.com/file/d/1hP3-FJZAeIepNGRR3-KQem-ayTBMEvTl/view?usp=sharing
 
